@@ -1,2 +1,4 @@
 __pycache__/
 data_extract/
+.ipynb_checkpoints/
+wikidb.db
