@@ -10,3 +10,7 @@ Using WikiExtractor:
 https://github.com/attardi/wikiextractor
 
 python3 WikiExtractor.py --json simplewiki-20190301-pages-meta-current.xml
+
+## Convert to SQL db
+
+Use 00_convert_data_sql.ipynb
